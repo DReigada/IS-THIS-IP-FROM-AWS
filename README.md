@@ -1,3 +1,3 @@
 # IS THIS IP FROM AWS?
 
-[Is it?](https://dreigada.github.io/aws-ip-space/)
+[Is it?](https://dreigada.github.io/IS-THIS-IP-FROM-AWS/)

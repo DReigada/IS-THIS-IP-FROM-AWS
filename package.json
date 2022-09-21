@@ -1,7 +1,7 @@
 {
-  "name": "aws-ip-space",
+  "name": "IS-THIS-IP-FROM-AWS",
   "version": "0.1.0",
-  "homepage": "https://DReigada.github.io/aws-ip-space",
+  "homepage": "https://DReigada.github.io/IS-THIS-IP-FROM-AWS",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

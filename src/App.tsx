@@ -15,7 +15,7 @@ function App() {
         <IpChecker />
       </article>
       <footer className="App-footer">
-        <p><a href='https://github.com/DReigada/aws-ip-space'>Source</a></p>
+        <p><a href='https://github.com/DReigada/IS-THIS-IP-FROM-AWS'>Source</a></p>
         <p>|</p>
         <p>Made by: <a href='https://github.com/DReigada'>dreigada</a></p>
       </footer>
