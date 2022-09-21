@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aws-ip-space/static/css/main.073c9b0a.css",
+    "main.js": "/aws-ip-space/static/js/main.3b411cfd.js",
+    "static/js/787.5942a059.chunk.js": "/aws-ip-space/static/js/787.5942a059.chunk.js",
+    "index.html": "/aws-ip-space/index.html",
+    "main.073c9b0a.css.map": "/aws-ip-space/static/css/main.073c9b0a.css.map",
+    "main.3b411cfd.js.map": "/aws-ip-space/static/js/main.3b411cfd.js.map",
+    "787.5942a059.chunk.js.map": "/aws-ip-space/static/js/787.5942a059.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3b411cfd.js"
+  ]
+}
