@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IS-THIS-IP-FROM-AWS/static/css/main.b100e900.css",
-    "main.js": "/IS-THIS-IP-FROM-AWS/static/js/main.d59f9607.js",
+    "main.css": "/IS-THIS-IP-FROM-AWS/static/css/main.e4ea373b.css",
+    "main.js": "/IS-THIS-IP-FROM-AWS/static/js/main.cd2554fd.js",
     "static/js/787.855e3187.chunk.js": "/IS-THIS-IP-FROM-AWS/static/js/787.855e3187.chunk.js",
     "index.html": "/IS-THIS-IP-FROM-AWS/index.html",
-    "main.b100e900.css.map": "/IS-THIS-IP-FROM-AWS/static/css/main.b100e900.css.map",
-    "main.d59f9607.js.map": "/IS-THIS-IP-FROM-AWS/static/js/main.d59f9607.js.map",
+    "main.e4ea373b.css.map": "/IS-THIS-IP-FROM-AWS/static/css/main.e4ea373b.css.map",
+    "main.cd2554fd.js.map": "/IS-THIS-IP-FROM-AWS/static/js/main.cd2554fd.js.map",
     "787.855e3187.chunk.js.map": "/IS-THIS-IP-FROM-AWS/static/js/787.855e3187.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b100e900.css",
-    "static/js/main.d59f9607.js"
+    "static/css/main.e4ea373b.css",
+    "static/js/main.cd2554fd.js"
   ]
 }
