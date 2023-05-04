@@ -4,3 +4,11 @@
   margin: 8px 0;
   box-sizing: border-box;
 }
+
+.isit-text {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  cursor: default;
+}
